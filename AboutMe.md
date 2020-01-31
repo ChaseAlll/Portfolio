@@ -1,4 +1,4 @@
-# Portfolio
+# About Me
 
 Ever since I was a child, I have had an interest in computers since my parents bought their own first personal computer. While I was interested in computers it was not until my enrollment in Appalachian State University that I discovered my passion of software engineering. From writing my first Main function in Java my curiosity grew as I discovered all the possibilities that different languages had when combined with complex data structures and algorithms.  
 
