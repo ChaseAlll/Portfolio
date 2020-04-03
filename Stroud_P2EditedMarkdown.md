@@ -13,7 +13,7 @@
  
  
  2. ##### Set Game Path
-### [5.](#faq-2) FAQ
+### [5.](#faq) FAQ
 
 
 ## Introduction
